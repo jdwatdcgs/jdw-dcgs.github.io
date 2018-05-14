@@ -18,11 +18,11 @@ avatar: http://www.25mmpinbadges.co.uk/image/cache/data/Animals/1817_triangle_wo
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:jason.william@challoners.org
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: jdwatdcgs.github.io
+  instagram:jasonWilliam7565
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus:Jdog
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
