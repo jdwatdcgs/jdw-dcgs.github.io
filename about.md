@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+solid keeper, fortnite superstar, Jdog, goes to dcgs and is an actor
 
 ### Contact me
 
