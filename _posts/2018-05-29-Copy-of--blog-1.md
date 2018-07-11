@@ -1,5 +1,5 @@
 ---
-title: blog 3
+title: blog 8
 layout: post
 author: jason.william
 permalink: /copy-of--blog-1/
@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I think I achieved my target as I completed all the tasks given with full concentration and effort and i got to chapter 4</td>
+    <td>I think I achieved my target as I completed all the tasks given with full concentration and effort and i got to 60%</td>
   </tr>
 </table>
 
